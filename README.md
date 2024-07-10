@@ -1,4 +1,5 @@
 Localização de Itens em Armários
+
 Este projeto consiste em um aplicativo desenvolvido em Python utilizando Tkinter para a interface gráfica e SQLite para armazenamento de dados. O objetivo principal é permitir aos usuários localizar itens específicos dentro de armários, usando uma interface intuitiva e fácil de usar.
 
 Funcionalidades Principais
